@@ -1,0 +1,25 @@
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', serif;
+  font-weight: 700;
+}
+
+.input-group  {
+  margin: 20px;
+}
+
+header {
+  background-color: lightblue;
+}
+
+.card {
+  margin-top: 20px;
+}
