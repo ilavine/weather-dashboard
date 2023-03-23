@@ -3,6 +3,7 @@
 ## Description
 This is a simple weather app built with JavaScript and the OpenWeatherMap API. It allows users to search for a city and get the current weather conditions as well as a 5-day forecast.
 
+[Deployed Application](https://ilavine.github.io/weather-dashboard/)
 ## User Story
 
 ```
