@@ -76,8 +76,6 @@ function searchWeather(city) {
           const forecastDiv = document.createElement("div");
           forecastDiv.classList.add("row");
 
-          // loop through the forecast data and create a card for each day
-
           for (let i = 0; i < 6; i++) {
             const forecastDate = Date(forecastList[i].dt);
             const forecastTemp = forecastList[i].main.temp;
